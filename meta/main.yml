@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Sherif Abdalla
+  description: Let's Encrypt signed certificates on Amazon Route 53
+  license: MIT
+  min_ansible_version: 2.7
+  platforms:
+  - name: GenericLinux
+    versions:
+    - all
+    - any
+  galaxy_tags:
+  - letsencrypt
+  - route53
+  - aws
+  - dns
+  - ssl
+
+dependencies: []

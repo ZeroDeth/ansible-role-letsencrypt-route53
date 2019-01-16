@@ -1,0 +1,14 @@
+.idea/*
+.DS_Store
+
+*.backup
+
+### Ansible ###
+*.retry
+ansible.cfg
+hosts
+
+### My ###
+temp/
+key-pair/
+site.yml
